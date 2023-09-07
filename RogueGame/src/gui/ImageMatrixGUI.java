@@ -285,7 +285,7 @@ public class ImageMatrixGUI extends Observed {
      * <p>
      * Does nothing if there is no match.
      *
-     * @param image to be removed (must be the exact same Object and not a copy)
+     * //@param image to be removed (must be the exact same Object and not a copy)
      */
 
     public void removeImages(final List<ImageTile> newImages) {
@@ -332,7 +332,7 @@ public class ImageMatrixGUI extends Observed {
     /**
      * Add a new set of images to the status window.
      *
-     * @param newImages images to be added to status bar
+     * //@param newImages images to be added to status bar
      * @throws IllegalArgumentException if no image with that name (and a suitable extension) is
      *                                  found the images folder
      */

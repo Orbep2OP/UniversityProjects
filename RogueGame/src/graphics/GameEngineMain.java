@@ -34,6 +34,7 @@ public class GameEngineMain {
         catch(FileNotFoundException e) {
             System.err.println("O ficheiro Top_5_Players.txt não existe");
         }
+        System.exit(0);
     }
 
 

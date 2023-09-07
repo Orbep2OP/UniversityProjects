@@ -131,6 +131,7 @@ public class BestPlayers {
                 GameEngineMain.showTop5List();
             }
         }
+        System.exit(0);
     }
 
 }
