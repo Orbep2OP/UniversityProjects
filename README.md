@@ -1,2 +1,2 @@
 # UniversityProjects
-This are some of the most significant projects I developed either alone or in a group in the first 2 years of my degree in Computer Engineering
+These are some of the most significant projects I have developed, either independently or as part of a group, so far during my Computer Engineering degree.
