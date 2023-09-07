@@ -2,7 +2,8 @@
 👋 Hi, I’m @TOrbedp20P
 👀 I’m interested in web development, although more inclined toward backend development because I also like working with databases.
 🌱 I’m currently learning JavaScript, Spring Framework, and Spring Boot for Java.
-📫 For any inquiries you can contact me through my LinkedIn profile or my email pedroojos222@gmail.com.
+📫 For any inquiries you can contact me through my LinkedIn profile 
+    or my email pedroojos222@gmail.com.
 
 In this repository, I currently have three projects that I have developed, either independently or as part of a group, so far in my degree:
 
