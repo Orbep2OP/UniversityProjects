@@ -14,7 +14,7 @@ public class Shot extends Sprite {
 
     private void initShot(int x, int y) {
 
-        var shotImg = "C:\\Users\\themo\\OneDrive\\Documents\\GitHub\\UniversityProjects\\SpaceInvaders\\images\\shot.png";
+        var shotImg = "SpaceInvaders/images/shot.png";
         var ii = new ImageIcon(shotImg);
         setImage(ii.getImage());
 

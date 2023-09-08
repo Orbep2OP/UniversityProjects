@@ -35,7 +35,7 @@ public class Board extends JPanel {
 	private int deaths = 0;
 
 	private boolean inGame = true;
-	private String explImg = "C:\\Users\\themo\\OneDrive\\Documents\\GitHub\\UniversityProjects\\SpaceInvaders\\images\\explosion.png";
+	private String explImg = "SpaceInvaders/images/explosion.png";
 	private String message = "Game Over";
 
 	private Timer timer;

@@ -17,7 +17,7 @@ public class Player extends Sprite {
 
 	private void initPlayer() {
 
-		var playerImg = "C:\\Users\\themo\\OneDrive\\Documents\\GitHub\\UniversityProjects\\SpaceInvaders\\images\\player.png";
+		var playerImg = "SpaceInvaders/images/player.png";
 		var ii = new ImageIcon(playerImg);
 
 		width = ii.getImage().getWidth(null);

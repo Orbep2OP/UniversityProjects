@@ -63,7 +63,7 @@ public class ImageMatrixGUI extends Observed {
 
 //    private final String IMAGE_DIR = "images";
 
-    private final String IMAGE_DIR = "C:\\Users\\themo\\OneDrive\\Documents\\GitHub\\UniversityProjects\\RogueGame\\images";
+    private final String IMAGE_DIR = "RogueGame/images";
     private final int LABEL_HEIGHT = 20;
     private final int SQUARE_SIZE;
 

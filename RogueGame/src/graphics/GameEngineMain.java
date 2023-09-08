@@ -20,7 +20,7 @@ public class GameEngineMain {
     public static void showTop5List() {
         System.out.println("These are the top 5 players: " + "\n");
         int i = 0;
-        File file = new File("C:\\Users\\themo\\OneDrive\\Documents\\GitHub\\UniversityProjects\\RogueGame\\Top_5_Players.txt");
+        File file = new File("RogueGame/Top_5_Players.txt");
         try {
             Scanner scan = new Scanner(file);
 

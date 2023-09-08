@@ -12,7 +12,7 @@ public class BestPlayers {
     private List<Player> top5 = new ArrayList<Player>();
 
     public BestPlayers() {
-        File file = new File("C:\\Users\\themo\\OneDrive\\Documents\\GitHub\\UniversityProjects\\RogueGame\\Top_5_Players.txt");
+        File file = new File("RogueGame/Top_5_Players.txt");
         try {
             Scanner scan = new Scanner(file);
 
@@ -101,7 +101,7 @@ public class BestPlayers {
     public void sendToFile() {
         sortList();
         try {
-            File file = new File("C:\\Users\\themo\\OneDrive\\Documents\\GitHub\\UniversityProjects\\RogueGame\\Top_5_Players.txt");
+            File file = new File("RogueGame/Top_5_Players.txt");
             PrintWriter writter = new PrintWriter(file);
             for(Player p: top5) {
                 writter.println(p);
